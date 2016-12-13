@@ -3,10 +3,12 @@ apply-author-styles
 
 Pull page styles into Polymer custom elements.
 
-Add `eee-c/apply-author-styles` to Bower dependencies:
+This is a fork of the work by `frauben` and `eee-c` for the sole purpose of an updated `bower.json`.
+
+Add `rhgrant10/apply-author-styles` to Bower dependencies:
 
 ```
-$ bower install --save eee-c/apply-author-styles
+$ bower install --save rhgrant10/apply-author-styles
 ```
 
 Then import and use the `<apply-author-styles>` tag:
